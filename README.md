@@ -10,4 +10,4 @@ All you have to do is:
     newdtb.dtb -> suniv-f1c500s-miyoo.dtb
 3. Plug your SD card back in and it's fixed
     
-Shout out to u/prototypestick with (this awesome post)[https://www.reddit.com/r/Bittboy/comments/c8gluf/instructions_for_reducing_buzzing_noise_from/?utm_source=share&utm_medium=web2x]
+Shout out to u/prototypestick with [this awesome post](https://www.reddit.com/r/Bittboy/comments/c8gluf/instructions_for_reducing_buzzing_noise_from/?utm_source=share&utm_medium=web2x)
